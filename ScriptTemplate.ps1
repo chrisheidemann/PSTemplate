@@ -1,5 +1,5 @@
 @@ -0,0 +1,96 @@
-####Script specific variables here
+####Script specific variables here2
 $vdswitchname = "dvSwitch"
 
 #VM specific
